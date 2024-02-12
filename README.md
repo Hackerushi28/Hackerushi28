@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rushit Gohil(@hackerrushi28)
+- 👋 Hi, I’m Rushit Gohil(@hackerushi28)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on anywhere
